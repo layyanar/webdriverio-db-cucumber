@@ -4,7 +4,7 @@ This is a webdriverio test automation using tools such as Browserstack, Allure r
 
 To run test on browserStack, configure your creds in wdio.conf):
 
-> npx wdio run ./wdio.conf.js (
+> npx wdio run ./wdio.conf_bs.js
 
 To run the DB test:
 
