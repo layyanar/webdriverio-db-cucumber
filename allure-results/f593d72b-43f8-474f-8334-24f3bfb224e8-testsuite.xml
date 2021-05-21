@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1621481216582' stop='1621481216620'>
+    <name>The Internet Guinea Pig Website: Database testing</name>
+    <title>The Internet Guinea Pig Website: Database testing</title>
+    <test-cases>
+        <test-case start='1621481216582' status='passed' stop='1621481216584'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='Samsung Galaxy S21-11.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621481216585' status='broken' stop='1621481216617'>
+            <name>Given I want to connect to DB and check the updated result</name>
+            <title>Given I want to connect to DB and check the updated result</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='Samsung Galaxy S21-11.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Error: function uses multiple asynchronous interfaces: callback and promise</message>
+                <stack-trace>Error: function uses multiple asynchronous interfaces: callback and promise
+                to use the callback interface: do not return a promise
+                to use the promise interface: remove the last argument to the function
+                    at Object.run (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/user_code_runner.ts:51:16)
+                    at Object.run (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/step_runner.ts:56:41)
+                    at PickleRunner.invokeStep (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/pickle_runner.ts:240:12)
+                    at PickleRunner.runStep (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/pickle_runner.ts:423:20)
+                    at /Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/pickle_runner.ts:331:20
+                    at PickleRunner.aroundTestStep (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/pickle_runner.ts:273:28)
+                    at PickleRunner.run (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/pickle_runner.ts:315:9)
+                    at Runtime.runPickle (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/index.ts:118:20)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1621481216617' status='passed' stop='1621481216619'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='Samsung Galaxy S21-11.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

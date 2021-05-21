@@ -1,0 +1,245 @@
+{
+  "uid" : "1422b53bbb166b56",
+  "name" : "",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.",
+  "historyId" : "8bfc80e37f65888e5ab2f91b9aad237b",
+  "time" : {
+    "start" : 1620174835050,
+    "stop" : 1620174835050,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Samsung Galaxy S21-11.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "15c9472f7b70cde8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174832785,
+        "stop" : 1620174832785,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3390c30c86e089f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174832775,
+        "stop" : 1620174832776,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fd47c9fb1af891cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174822482,
+        "stop" : 1620174822484,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6b1268fb93bcba8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174644856,
+        "stop" : 1620174644858,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "f27f0e3a0c88946a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174642512,
+        "stop" : 1620174642513,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d4be145f348bfbd2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174642503,
+        "stop" : 1620174642504,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6e8df1925ff9633b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174633974,
+        "stop" : 1620174633976,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "8b4f4dc5b0922b57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174434477,
+        "stop" : 1620174434477,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "85a8c5fb5ef5a71e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174432333,
+        "stop" : 1620174432333,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dd4f2dc0d4079207",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174432323,
+        "stop" : 1620174432323,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3c10a698b59648a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174422376,
+        "stop" : 1620174422378,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "52b47e938ea9187f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102173784,
+        "stop" : 1620102173784,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1de495c56dba38fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102171454,
+        "stop" : 1620102171455,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9986e99e5a02ed43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102171444,
+        "stop" : 1620102171445,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d01fa3e3124c7519",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102152257,
+        "stop" : 1620102152259,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "d022c8d7c47a84d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101753493,
+        "stop" : 1620101753494,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7bce856fb4e48de9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101750822,
+        "stop" : 1620101750823,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "15bd4ec649f0500d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101750813,
+        "stop" : 1620101750813,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7b4edfd3e372d459",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101741927,
+        "stop" : 1620101741929,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "9231c0384aa12a92",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174835050,
+          "stop" : 1620174835050,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "413c87fa4399765c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174644856,
+          "stop" : 1620174644858,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "292784dc7eb9c06a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102173784,
+          "stop" : 1620102173784,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "1422b53bbb166b56.json",
+  "parameterValues" : [ "Samsung Galaxy S21-11.0" ]
+}

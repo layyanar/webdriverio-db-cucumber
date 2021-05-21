@@ -1,0 +1,93 @@
+{
+  "uid" : "c2eb17c8a87462c1",
+  "name" : "When I login with tomsmith1 and SuperSecretPassword!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.When I login with tomsmith1 and SuperSecretPassword!",
+  "historyId" : "269ef84d90576a0101f903e695f38d63",
+  "time" : {
+    "start" : 1620102159656,
+    "stop" : 1620102161174,
+    "duration" : 1518
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with tomsmith1 and SuperSecretPassword!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Samsung Galaxy S21-11.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "6699bb5f949e7687",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102159656,
+          "stop" : 1620102161174,
+          "duration" : 1518
+        }
+      }, {
+        "uid" : "4f610a8c24c156c4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102159656,
+          "stop" : 1620102161174,
+          "duration" : 1518
+        }
+      }, {
+        "uid" : "49bec6026a6f26b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102159656,
+          "stop" : 1620102161174,
+          "duration" : 1518
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c2eb17c8a87462c1.json",
+  "parameterValues" : [ "Samsung Galaxy S21-11.0" ]
+}

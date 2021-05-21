@@ -1,0 +1,127 @@
+{
+  "uid" : "6d4c5e3e9971ed4f",
+  "name" : "Then I should see a flash message saying You logged into a secure area!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Then I should see a flash message saying You logged into a secure area!",
+  "historyId" : "ca9a72b1463a6e39d252cbf4efdd02a",
+  "time" : {
+    "start" : 1620174826363,
+    "stop" : 1620174827144,
+    "duration" : 781
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message saying You logged into a secure area!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "iphone-14.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6a515dd2fd4979c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174637544,
+        "stop" : 1620174638291,
+        "duration" : 747
+      }
+    }, {
+      "uid" : "6065bb5dd995d025",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174425944,
+        "stop" : 1620174426682,
+        "duration" : 738
+      }
+    }, {
+      "uid" : "37f5019af2bdc625",
+      "status" : "failed",
+      "statusDetails" : "Error: Expect $(`#flash`) to have text containing",
+      "time" : {
+        "start" : 1620102155496,
+        "stop" : 1620102166252,
+        "duration" : 10756
+      }
+    }, {
+      "uid" : "dd582ba4928c13cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101741275,
+        "stop" : 1620101743100,
+        "duration" : 1825
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "ca52b65b3e1fc953",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174826363,
+          "stop" : 1620174827144,
+          "duration" : 781
+        }
+      }, {
+        "uid" : "7167fd7901bed49b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174637544,
+          "stop" : 1620174638291,
+          "duration" : 747
+        }
+      }, {
+        "uid" : "d78b70ff7de429ef",
+        "status" : "failed",
+        "statusDetails" : "Error: Expect $(`#flash`) to have text containing",
+        "time" : {
+          "start" : 1620102155496,
+          "stop" : 1620102166252,
+          "duration" : 10756
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6d4c5e3e9971ed4f.json",
+  "parameterValues" : [ "iphone-14.0" ]
+}

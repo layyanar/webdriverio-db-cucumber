@@ -1,0 +1,245 @@
+{
+  "uid" : "30b43f867ea2a762",
+  "name" : "",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.",
+  "historyId" : "819bdf45f5b3e89c91fcb55e52f8c96",
+  "time" : {
+    "start" : 1620174830223,
+    "stop" : 1620174830223,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "iphone-14.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "12fb255e8597beba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174827152,
+        "stop" : 1620174827152,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4806794897d4d8b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174827144,
+        "stop" : 1620174827145,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6ffddabf2b17088a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174818813,
+        "stop" : 1620174818815,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6941f2a4fa908a6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174641242,
+        "stop" : 1620174641242,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c74e1f39a6c94327",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174638301,
+        "stop" : 1620174638302,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "84033024cf2f5768",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174638291,
+        "stop" : 1620174638292,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f4704845c42e2623",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174629512,
+        "stop" : 1620174629514,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "75ba548df668dbd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174429877,
+        "stop" : 1620174429878,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "26ad27f9a4e412b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174426691,
+        "stop" : 1620174426691,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "71c2d514f285046",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174426682,
+        "stop" : 1620174426682,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "149388a71fe76882",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174418090,
+        "stop" : 1620174418091,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f8e243a87fe4b1fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102169401,
+        "stop" : 1620102169401,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a5ba92d44dba1b52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102166261,
+        "stop" : 1620102166262,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8ac2aae04e2e1024",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102166252,
+        "stop" : 1620102166253,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7181dff5b1b18830",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102147832,
+        "stop" : 1620102147834,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6543fdaaf3268f46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101746655,
+        "stop" : 1620101746655,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f309233ab8779df5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101743110,
+        "stop" : 1620101743110,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4429b1aeb5c20dbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101743101,
+        "stop" : 1620101743101,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e591694a902cce9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101734396,
+        "stop" : 1620101734398,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "80cd923c4e206f91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174830223,
+          "stop" : 1620174830223,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "72543cdd78b1ba79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174641242,
+          "stop" : 1620174641242,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "8fb8a24bd96a2461",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102169401,
+          "stop" : 1620102169401,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "30b43f867ea2a762.json",
+  "parameterValues" : [ "iphone-14.0" ]
+}

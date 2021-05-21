@@ -1,0 +1,125 @@
+{
+  "uid" : "c8892031ea306d4f",
+  "name" : "Then I should see a flash message saying Your username is invalid!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Then I should see a flash message saying Your username is invalid!",
+  "historyId" : "598f2c92e307b5752a29e6af7ae0623f",
+  "time" : {
+    "start" : 1620174824622,
+    "stop" : 1620174824858,
+    "duration" : 236
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message saying Your username is invalid!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.72"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "56c9f2d129ee2aff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174634053,
+        "stop" : 1620174634263,
+        "duration" : 210
+      }
+    }, {
+      "uid" : "3a0aa29a38a4438e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174426281,
+        "stop" : 1620174426496,
+        "duration" : 215
+      }
+    }, {
+      "uid" : "44a64f3fa0e53853",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102165769,
+        "stop" : 1620102165988,
+        "duration" : 219
+      }
+    }, {
+      "uid" : "b7d6d6b280fde1fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101738810,
+        "stop" : 1620101739008,
+        "duration" : 198
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "e6cdd24bd0010824",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174824622,
+          "stop" : 1620174824858,
+          "duration" : 236
+        }
+      }, {
+        "uid" : "5d1ec6a00c1176b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174634053,
+          "stop" : 1620174634263,
+          "duration" : 210
+        }
+      }, {
+        "uid" : "47f8b9be53bfdd04",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102165769,
+          "stop" : 1620102165988,
+          "duration" : 219
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c8892031ea306d4f.json",
+  "parameterValues" : [ "chrome-90.0.4430.72" ]
+}

@@ -1,0 +1,93 @@
+{
+  "uid" : "717d7a2ec89d34d8",
+  "name" : "When I login with tomsmith1 and SuperSecretPassword!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.When I login with tomsmith1 and SuperSecretPassword!",
+  "historyId" : "28a71f18f31aac2cef8010cc36ca4f19",
+  "time" : {
+    "start" : 1620102154815,
+    "stop" : 1620102155496,
+    "duration" : 681
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with tomsmith1 and SuperSecretPassword!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "iphone-14.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "5a213a8d65eb5916",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102154815,
+          "stop" : 1620102155496,
+          "duration" : 681
+        }
+      }, {
+        "uid" : "7f6bd5f0366a393e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102154815,
+          "stop" : 1620102155496,
+          "duration" : 681
+        }
+      }, {
+        "uid" : "defc26995bab7d8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102154815,
+          "stop" : 1620102155496,
+          "duration" : 681
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "717d7a2ec89d34d8.json",
+  "parameterValues" : [ "iphone-14.0" ]
+}

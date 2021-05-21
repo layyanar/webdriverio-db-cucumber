@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1621474634003' stop='1621474636236'>
+    <name>The Internet Guinea Pig Website: As a user, I can log into the secure area</name>
+    <title>The Internet Guinea Pig Website: As a user, I can log into the secure area</title>
+    <test-cases>
+        <test-case start='1621474634003' status='passed' stop='1621474634004'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='2-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='iphone-14.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621474634004' status='passed' stop='1621474635617'>
+            <name>Given I am on the login page</name>
+            <title>Given I am on the login page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='2-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='iphone-14.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621474635617' status='passed' stop='1621474636233'>
+            <name>When I login with foobar and barfoo</name>
+            <title>When I login with foobar and barfoo</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='2-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='iphone-14.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621474636233' status='broken' stop='1621474636235'>
+            <name>Then I am able to check the result in the database</name>
+            <title>Then I am able to check the result in the database</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='2-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='iphone-14.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Error: function uses multiple asynchronous interfaces: callback and promise</message>
+                <stack-trace>Error: function uses multiple asynchronous interfaces: callback and promise
+                to use the callback interface: do not return a promise
+                to use the promise interface: remove the last argument to the function
+                    at Object.run (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/user_code_runner.ts:51:16)
+                    at Object.run (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/step_runner.ts:56:41)
+                    at PickleRunner.invokeStep (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/pickle_runner.ts:240:12)
+                    at PickleRunner.runStep (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/pickle_runner.ts:423:20)
+                    at /Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/pickle_runner.ts:331:20
+                    at PickleRunner.aroundTestStep (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/pickle_runner.ts:273:28)
+                    at PickleRunner.run (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/pickle_runner.ts:315:9)
+                    at Runtime.runPickle (/Users/smahanty/Desktop/NSW-Health/node_modules/@cucumber/cucumber/src/runtime/index.ts:118:20)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1621474636235' status='undefined'>
+            <name>Then I should see a flash message saying Your username is invalid!</name>
+            <title>Then I should see a flash message saying Your username is invalid!</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='2-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='iphone-14.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621474636235' status='pending' stop='1621474636235'>
+            <name>I should see a flash message saying Your username is invalid!</name>
+            <title>I should see a flash message saying Your username is invalid!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1621474636235' status='passed' stop='1621474636236'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='2-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='iphone-14.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

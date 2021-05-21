@@ -1,0 +1,360 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "The Internet Guinea Pig Website: As a user, I can log into the secure area",
+    "children" : [ {
+      "name" : "When I login with tomsmith and SuperSecretPassword!",
+      "uid" : "34ac250ef19588a9",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620100482393,
+        "stop" : 1620100483241,
+        "duration" : 848
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "f318921d5f26c16e",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620100483241,
+        "stop" : 1620100483292,
+        "duration" : 51
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "2a7d0b60eee30d2a",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620100483302,
+        "stop" : 1620100483653,
+        "duration" : 351
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "c37fef1a34f269f",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620100483653,
+        "stop" : 1620100484367,
+        "duration" : 714
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I should see a flash message saying Your username is invalid!",
+      "uid" : "b67bb83c1a8cd9be",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620100484367,
+        "stop" : 1620100484408,
+        "duration" : 41
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "678900533f7e884d",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620100484408,
+        "stop" : 1620100484408,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "When I login with tomsmith1 and SuperSecretPassword!",
+      "uid" : "b131df5e9bcead27",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102152681,
+        "stop" : 1620102154011,
+        "duration" : 1330
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.72" ]
+    }, {
+      "name" : "When I login with tomsmith1 and SuperSecretPassword!",
+      "uid" : "717d7a2ec89d34d8",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102154815,
+        "stop" : 1620102155496,
+        "duration" : 681
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "iphone-14.0" ]
+    }, {
+      "name" : "When I login with tomsmith1 and SuperSecretPassword!",
+      "uid" : "c2eb17c8a87462c1",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102159656,
+        "stop" : 1620102161174,
+        "duration" : 1518
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Samsung Galaxy S21-11.0" ]
+    }, {
+      "name" : "When I login with tomsmith and SuperSecretPassword!",
+      "uid" : "d6ca5322051cdbf0",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174821412,
+        "stop" : 1620174822845,
+        "duration" : 1433
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.72" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "93bc35893b8ec391",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174822845,
+        "stop" : 1620174823076,
+        "duration" : 231
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.72" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "4d9ce1c5422cd7ab",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174823086,
+        "stop" : 1620174823517,
+        "duration" : 431
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.72" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "5328846ad2525894",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174823517,
+        "stop" : 1620174824622,
+        "duration" : 1105
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.72" ]
+    }, {
+      "name" : "Then I should see a flash message saying Your username is invalid!",
+      "uid" : "c8892031ea306d4f",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174824622,
+        "stop" : 1620174824858,
+        "duration" : 236
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.72" ]
+    }, {
+      "name" : "",
+      "uid" : "cf0ae8a3bc061377",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174824859,
+        "stop" : 1620174824859,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.72" ]
+    }, {
+      "name" : "When I login with tomsmith and SuperSecretPassword!",
+      "uid" : "e92354f69151d429",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174825740,
+        "stop" : 1620174826363,
+        "duration" : 623
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "iphone-14.0" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "6d4c5e3e9971ed4f",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174826363,
+        "stop" : 1620174827144,
+        "duration" : 781
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "iphone-14.0" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "1125a375b510c318",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174827152,
+        "stop" : 1620174828870,
+        "duration" : 1718
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "iphone-14.0" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "663c977980c1eb44",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174828870,
+        "stop" : 1620174829471,
+        "duration" : 601
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "iphone-14.0" ]
+    }, {
+      "name" : "Then I should see a flash message saying Your username is invalid!",
+      "uid" : "81b4df337b8aa54f",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174829471,
+        "stop" : 1620174830223,
+        "duration" : 752
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "iphone-14.0" ]
+    }, {
+      "name" : "When I login with tomsmith and SuperSecretPassword!",
+      "uid" : "7da19d4737c0a998",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174829813,
+        "stop" : 1620174831297,
+        "duration" : 1484
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Samsung Galaxy S21-11.0" ]
+    }, {
+      "name" : "",
+      "uid" : "30b43f867ea2a762",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174830223,
+        "stop" : 1620174830223,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "iphone-14.0" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "e7f600c5c0de9c",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174831298,
+        "stop" : 1620174832775,
+        "duration" : 1477
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Samsung Galaxy S21-11.0" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "bd7a77591beaf7ed",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174832785,
+        "stop" : 1620174833292,
+        "duration" : 507
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Samsung Galaxy S21-11.0" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "414291e659951b1c",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174833292,
+        "stop" : 1620174834726,
+        "duration" : 1434
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Samsung Galaxy S21-11.0" ]
+    }, {
+      "name" : "Then I should see a flash message saying Your username is invalid!",
+      "uid" : "a6f4f14ff2726eab",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174834726,
+        "stop" : 1620174835050,
+        "duration" : 324
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Samsung Galaxy S21-11.0" ]
+    }, {
+      "name" : "",
+      "uid" : "1422b53bbb166b56",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174835050,
+        "stop" : 1620174835050,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Samsung Galaxy S21-11.0" ]
+    } ],
+    "uid" : "fdbdc9ea7ee956858561e08f47b3a285"
+  } ]
+}

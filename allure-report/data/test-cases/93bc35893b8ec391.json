@@ -1,0 +1,127 @@
+{
+  "uid" : "93bc35893b8ec391",
+  "name" : "Then I should see a flash message saying You logged into a secure area!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Then I should see a flash message saying You logged into a secure area!",
+  "historyId" : "59e44d09490665979d794b11bc0d0173",
+  "time" : {
+    "start" : 1620174822845,
+    "stop" : 1620174823076,
+    "duration" : 231
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message saying You logged into a secure area!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.72"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "93d8b62968a2a6d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174632386,
+        "stop" : 1620174632599,
+        "duration" : 213
+      }
+    }, {
+      "uid" : "8455986ebd866f08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174424488,
+        "stop" : 1620174424771,
+        "duration" : 283
+      }
+    }, {
+      "uid" : "344535624c79a21",
+      "status" : "failed",
+      "statusDetails" : "Error: Expect $(`#flash`) to have text containing",
+      "time" : {
+        "start" : 1620102154011,
+        "stop" : 1620102164237,
+        "duration" : 10226
+      }
+    }, {
+      "uid" : "8a7ab63b73ae6c7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101737247,
+        "stop" : 1620101737478,
+        "duration" : 231
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "53615fd0d29dd730",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174822845,
+          "stop" : 1620174823076,
+          "duration" : 231
+        }
+      }, {
+        "uid" : "f5971ac9b03f7a8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174632386,
+          "stop" : 1620174632599,
+          "duration" : 213
+        }
+      }, {
+        "uid" : "fa65986dfacc6886",
+        "status" : "failed",
+        "statusDetails" : "Error: Expect $(`#flash`) to have text containing",
+        "time" : {
+          "start" : 1620102154011,
+          "stop" : 1620102164237,
+          "duration" : 10226
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "93bc35893b8ec391.json",
+  "parameterValues" : [ "chrome-90.0.4430.72" ]
+}

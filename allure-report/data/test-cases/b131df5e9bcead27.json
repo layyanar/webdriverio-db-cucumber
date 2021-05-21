@@ -1,0 +1,93 @@
+{
+  "uid" : "b131df5e9bcead27",
+  "name" : "When I login with tomsmith1 and SuperSecretPassword!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.When I login with tomsmith1 and SuperSecretPassword!",
+  "historyId" : "7f920bf5f58c59de45f6f7cf16ced168",
+  "time" : {
+    "start" : 1620102152681,
+    "stop" : 1620102154011,
+    "duration" : 1330
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with tomsmith1 and SuperSecretPassword!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.72"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "a6f2ecfd61ef5492",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102152681,
+          "stop" : 1620102154011,
+          "duration" : 1330
+        }
+      }, {
+        "uid" : "48d00bea6f03d2c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102152681,
+          "stop" : 1620102154011,
+          "duration" : 1330
+        }
+      }, {
+        "uid" : "9dc20c2c86bcedb7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102152681,
+          "stop" : 1620102154011,
+          "duration" : 1330
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b131df5e9bcead27.json",
+  "parameterValues" : [ "chrome-90.0.4430.72" ]
+}

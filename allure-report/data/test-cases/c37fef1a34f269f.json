@@ -1,0 +1,149 @@
+{
+  "uid" : "c37fef1a34f269f",
+  "name" : "When I login with foobar and barfoo",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.When I login with foobar and barfoo",
+  "historyId" : "aa99873183cab8f77b091677de814ef2",
+  "time" : {
+    "start" : 1620100483653,
+    "stop" : 1620100484367,
+    "duration" : 714
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with foobar and barfoo"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f645e177b8f94ef7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620100079058,
+        "stop" : 1620100079886,
+        "duration" : 828
+      }
+    }, {
+      "uid" : "78acf2616ceba8b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620099666958,
+        "stop" : 1620099667641,
+        "duration" : 683
+      }
+    }, {
+      "uid" : "c8d3098d9fadcc8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620027056875,
+        "stop" : 1620027057579,
+        "duration" : 704
+      }
+    }, {
+      "uid" : "30900e0cec0beefb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620026830634,
+        "stop" : 1620026831497,
+        "duration" : 863
+      }
+    }, {
+      "uid" : "deff4c282883966d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620026344227,
+        "stop" : 1620026344993,
+        "duration" : 766
+      }
+    }, {
+      "uid" : "7dfb3f3b4a2cd1ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620025746999,
+        "stop" : 1620025747823,
+        "duration" : 824
+      }
+    }, {
+      "uid" : "69c2f4fcb13c809f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620025321680,
+        "stop" : 1620025322381,
+        "duration" : 701
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "71ddde85a26471d5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620100483653,
+          "stop" : 1620100484367,
+          "duration" : 714
+        }
+      }, {
+        "uid" : "b3a7283b4a5bb7b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620100483653,
+          "stop" : 1620100484367,
+          "duration" : 714
+        }
+      }, {
+        "uid" : "747fdd4a109391ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620100483653,
+          "stop" : 1620100484367,
+          "duration" : 714
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c37fef1a34f269f.json",
+  "parameterValues" : [ "chrome-90.0.4430.93" ]
+}

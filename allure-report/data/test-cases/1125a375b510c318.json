@@ -1,0 +1,165 @@
+{
+  "uid" : "1125a375b510c318",
+  "name" : "Given I am on the login page",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Given I am on the login page",
+  "historyId" : "f8d72c3fd9a6ceeb24f3b31d7d273443",
+  "time" : {
+    "start" : 1620174827152,
+    "stop" : 1620174828870,
+    "duration" : 1718
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "iphone-14.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "782ae459661ef3c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174818815,
+        "stop" : 1620174825740,
+        "duration" : 6925
+      }
+    }, {
+      "uid" : "a22c0e1a29ac6aed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174638302,
+        "stop" : 1620174639911,
+        "duration" : 1609
+      }
+    }, {
+      "uid" : "2cae10db9f181355",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174629514,
+        "stop" : 1620174636987,
+        "duration" : 7473
+      }
+    }, {
+      "uid" : "7c08df666c395b01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174426691,
+        "stop" : 1620174428398,
+        "duration" : 1707
+      }
+    }, {
+      "uid" : "bec49010faacf359",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174418092,
+        "stop" : 1620174425400,
+        "duration" : 7308
+      }
+    }, {
+      "uid" : "b9dfe18c6206d110",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102166262,
+        "stop" : 1620102168039,
+        "duration" : 1777
+      }
+    }, {
+      "uid" : "248f075782654d25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102147834,
+        "stop" : 1620102154815,
+        "duration" : 6981
+      }
+    }, {
+      "uid" : "98bb221d68a17f10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101743110,
+        "stop" : 1620101745029,
+        "duration" : 1919
+      }
+    }, {
+      "uid" : "f69bfbc9906bc412",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101734398,
+        "stop" : 1620101740752,
+        "duration" : 6354
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "f3ccb02578a8ea94",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174827152,
+          "stop" : 1620174828870,
+          "duration" : 1718
+        }
+      }, {
+        "uid" : "d6955da0fab331fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174638302,
+          "stop" : 1620174639911,
+          "duration" : 1609
+        }
+      }, {
+        "uid" : "d39ca38ad9dcad46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102166262,
+          "stop" : 1620102168039,
+          "duration" : 1777
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "1125a375b510c318.json",
+  "parameterValues" : [ "iphone-14.0" ]
+}

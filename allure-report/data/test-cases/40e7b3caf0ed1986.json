@@ -1,0 +1,58 @@
+{
+  "uid" : "40e7b3caf0ed1986",
+  "name" : "Then I should see a flash message saying You logged into a secure area!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Then I should see a flash message saying You logged into a secure area!",
+  "historyId" : "69dc8d5a2c4e10741f4cdba5d65fd60",
+  "time" : {
+    "start" : 1620102161174,
+    "stop" : 1620102171444,
+    "duration" : 10270
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Expect $(`#flash`) to have text containing",
+  "statusTrace" : "Error: Expect $(`#flash`) to have text containing\n                \n                - Expected  - 1\n                + Received  + 2\n                \n                - You logged into a secure area!\n                + Your username is invalid!\n                + ×\n                    at World.<anonymous> (/Users/smahanty/Desktop/NSW-Health/features/step-definitions/steps.js:20:41)\n                    at processTicksAndRejections (node:internal/process/task_queues:93:5)\n                    at World.executeAsync (/Users/smahanty/Desktop/NSW-Health/node_modules/@wdio/utils/build/shim.js:136:16)\n                    at World.testFrameworkFnWrapper (/Users/smahanty/Desktop/NSW-Health/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:52:18)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message saying You logged into a secure area!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Samsung Galaxy S21-11.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40e7b3caf0ed1986.json",
+  "parameterValues" : [ "Samsung Galaxy S21-11.0" ]
+}

@@ -1,0 +1,125 @@
+{
+  "uid" : "81b4df337b8aa54f",
+  "name" : "Then I should see a flash message saying Your username is invalid!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Then I should see a flash message saying Your username is invalid!",
+  "historyId" : "4a783886a84b220843d30f3bdccda66c",
+  "time" : {
+    "start" : 1620174829471,
+    "stop" : 1620174830223,
+    "duration" : 752
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message saying Your username is invalid!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "iphone-14.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fa4a52214677ac5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174640493,
+        "stop" : 1620174641241,
+        "duration" : 748
+      }
+    }, {
+      "uid" : "dcf286a08164ac95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174428996,
+        "stop" : 1620174429877,
+        "duration" : 881
+      }
+    }, {
+      "uid" : "9dfa1b0e0eea1ea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102168649,
+        "stop" : 1620102169401,
+        "duration" : 752
+      }
+    }, {
+      "uid" : "e9870b96d954e67c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101745877,
+        "stop" : 1620101746655,
+        "duration" : 778
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "e16283b1a2f94d8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174829471,
+          "stop" : 1620174830223,
+          "duration" : 752
+        }
+      }, {
+        "uid" : "d6ab2f38bdd10f7b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174640493,
+          "stop" : 1620174641241,
+          "duration" : 748
+        }
+      }, {
+        "uid" : "752fc317980dff78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102168649,
+          "stop" : 1620102169401,
+          "duration" : 752
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "81b4df337b8aa54f.json",
+  "parameterValues" : [ "iphone-14.0" ]
+}

@@ -1,0 +1,165 @@
+{
+  "uid" : "4d9ce1c5422cd7ab",
+  "name" : "Given I am on the login page",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Given I am on the login page",
+  "historyId" : "7bf3b8cd9bfa29d794c8e6fdf7c608e5",
+  "time" : {
+    "start" : 1620174823086,
+    "stop" : 1620174823517,
+    "duration" : 431
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.72"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6278ab6770f3cac3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174814882,
+        "stop" : 1620174821412,
+        "duration" : 6530
+      }
+    }, {
+      "uid" : "eb8ec671af54b386",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174632609,
+        "stop" : 1620174632999,
+        "duration" : 390
+      }
+    }, {
+      "uid" : "c9cd74a4895d410",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174624707,
+        "stop" : 1620174631157,
+        "duration" : 6450
+      }
+    }, {
+      "uid" : "7159dfdaffed3092",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174424783,
+        "stop" : 1620174425161,
+        "duration" : 378
+      }
+    }, {
+      "uid" : "a6527796041f0605",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174416540,
+        "stop" : 1620174423086,
+        "duration" : 6546
+      }
+    }, {
+      "uid" : "dacc4bf82d87d61c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102164247,
+        "stop" : 1620102164635,
+        "duration" : 388
+      }
+    }, {
+      "uid" : "9ef82c162d9e337",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102146277,
+        "stop" : 1620102152681,
+        "duration" : 6404
+      }
+    }, {
+      "uid" : "414419dcff7bd657",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101737490,
+        "stop" : 1620101737828,
+        "duration" : 338
+      }
+    }, {
+      "uid" : "8de4d96025c1bd07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101729841,
+        "stop" : 1620101736121,
+        "duration" : 6280
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "ed54207cb736a006",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174823086,
+          "stop" : 1620174823517,
+          "duration" : 431
+        }
+      }, {
+        "uid" : "25d4db04a333f50",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174632609,
+          "stop" : 1620174632999,
+          "duration" : 390
+        }
+      }, {
+        "uid" : "ee51300fd01577f7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102164247,
+          "stop" : 1620102164635,
+          "duration" : 388
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4d9ce1c5422cd7ab.json",
+  "parameterValues" : [ "chrome-90.0.4430.72" ]
+}

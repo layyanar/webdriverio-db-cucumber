@@ -1,0 +1,56 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1621481862459' stop='1621481862468'>
+    <name>The Internet Guinea Pig Website: Database testing</name>
+    <title>The Internet Guinea Pig Website: Database testing</title>
+    <test-cases>
+        <test-case start='1621481862460' status='passed' stop='1621481862462'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.212'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621481862463' status='broken' stop='1621481862466'>
+            <name>Given I want to connect to DB and check the updated result</name>
+            <title>Given I want to connect to DB and check the updated result</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.212'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>TypeError: this.connectToDatabase is not a function</message>
+                <stack-trace>TypeError: this.connectToDatabase is not a function
+                    at World.&lt;anonymous> (/Users/smahanty/Desktop/NSW-Health/features/step-definitions/steps.js:26:9)
+                    at World.executeAsync (/Users/smahanty/Desktop/NSW-Health/node_modules/@wdio/utils/build/shim.js:136:25)
+                    at World.testFrameworkFnWrapper (/Users/smahanty/Desktop/NSW-Health/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1621481862466' status='passed' stop='1621481862467'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.212'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

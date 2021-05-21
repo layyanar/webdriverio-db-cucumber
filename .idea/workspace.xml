@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24005308-f2d8-4f5f-a25b-b0117b7d071b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1s0hYzfpXurR0vmi56uqGkThjEN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/allure-results" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/features/pageobjects" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/allure-results" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="login.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/features/login.feature" />
+      <option name="myNameFilter" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber.js.login.feature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24005308-f2d8-4f5f-a25b-b0117b7d071b" name="Default Changelist" comment="" />
+      <created>1620015465486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620015465486</updated>
+      <workItem from="1620015466519" duration="1321000" />
+      <workItem from="1620017576781" duration="1203000" />
+      <workItem from="1620019448920" duration="1733000" />
+      <workItem from="1620024684880" duration="1528000" />
+      <workItem from="1620026638696" duration="668000" />
+      <workItem from="1620099626233" duration="1695000" />
+      <workItem from="1620101437917" duration="1179000" />
+      <workItem from="1620103351964" duration="663000" />
+      <workItem from="1620174242858" duration="722000" />
+      <workItem from="1621395782638" duration="1761000" />
+      <workItem from="1621406186399" duration="287000" />
+      <workItem from="1621473510435" duration="2930000" />
+      <workItem from="1621479858179" duration="1816000" />
+      <workItem from="1621481764550" duration="855000" />
+      <workItem from="1621484241483" duration="587000" />
+      <workItem from="1621486218968" duration="1558000" />
+      <workItem from="1621488246192" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

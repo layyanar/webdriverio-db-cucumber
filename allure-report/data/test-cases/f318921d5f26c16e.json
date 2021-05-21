@@ -1,0 +1,149 @@
+{
+  "uid" : "f318921d5f26c16e",
+  "name" : "Then I should see a flash message saying You logged into a secure area!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Then I should see a flash message saying You logged into a secure area!",
+  "historyId" : "d85c41690203d0779ebc28ff71bb4b0e",
+  "time" : {
+    "start" : 1620100483241,
+    "stop" : 1620100483292,
+    "duration" : 51
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message saying You logged into a secure area!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e804546087856330",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620100078722,
+        "stop" : 1620100078774,
+        "duration" : 52
+      }
+    }, {
+      "uid" : "2d40ddb91c6882a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620099666622,
+        "stop" : 1620099666677,
+        "duration" : 55
+      }
+    }, {
+      "uid" : "ffc5b8a0eb46decc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620027056475,
+        "stop" : 1620027056532,
+        "duration" : 57
+      }
+    }, {
+      "uid" : "1e24265b6e8d9f17",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620026830292,
+        "stop" : 1620026830349,
+        "duration" : 57
+      }
+    }, {
+      "uid" : "ff1fd6979fa76a73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620026343876,
+        "stop" : 1620026343930,
+        "duration" : 54
+      }
+    }, {
+      "uid" : "bba0df23028806c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620025746653,
+        "stop" : 1620025746716,
+        "duration" : 63
+      }
+    }, {
+      "uid" : "f58732b730cfa82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620025321346,
+        "stop" : 1620025321396,
+        "duration" : 50
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "28a900313ec0b277",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620100483241,
+          "stop" : 1620100483292,
+          "duration" : 51
+        }
+      }, {
+        "uid" : "556156a26044ff93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620100483241,
+          "stop" : 1620100483292,
+          "duration" : 51
+        }
+      }, {
+        "uid" : "f6db7ae6e700e74f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620100483241,
+          "stop" : 1620100483292,
+          "duration" : 51
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f318921d5f26c16e.json",
+  "parameterValues" : [ "chrome-90.0.4430.93" ]
+}

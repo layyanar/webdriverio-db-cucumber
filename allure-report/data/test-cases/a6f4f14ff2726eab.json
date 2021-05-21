@@ -1,0 +1,125 @@
+{
+  "uid" : "a6f4f14ff2726eab",
+  "name" : "Then I should see a flash message saying Your username is invalid!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Then I should see a flash message saying Your username is invalid!",
+  "historyId" : "324d1c5154b77f11e5c3a3cc56b1dbe8",
+  "time" : {
+    "start" : 1620174834726,
+    "stop" : 1620174835050,
+    "duration" : 324
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message saying Your username is invalid!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Samsung Galaxy S21-11.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9865f08e473992b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174644555,
+        "stop" : 1620174644856,
+        "duration" : 301
+      }
+    }, {
+      "uid" : "f73017028784288c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620174434126,
+        "stop" : 1620174434477,
+        "duration" : 351
+      }
+    }, {
+      "uid" : "c21b27a859ada211",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620102173461,
+        "stop" : 1620102173784,
+        "duration" : 323
+      }
+    }, {
+      "uid" : "6ccccdecdfb3b77c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620101753128,
+        "stop" : 1620101753493,
+        "duration" : 365
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "2ca6509f0ed49231",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174834726,
+          "stop" : 1620174835050,
+          "duration" : 324
+        }
+      }, {
+        "uid" : "bfc1ab6934abecca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620174644555,
+          "stop" : 1620174644856,
+          "duration" : 301
+        }
+      }, {
+        "uid" : "39cdbb86b4f0ca4d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620102173461,
+          "stop" : 1620102173784,
+          "duration" : 323
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a6f4f14ff2726eab.json",
+  "parameterValues" : [ "Samsung Galaxy S21-11.0" ]
+}
